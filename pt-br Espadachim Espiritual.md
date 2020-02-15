@@ -74,10 +74,13 @@ Uma classe que liga o combate marcial com o mundo dos espíritos para o maior jo
 </style>
 
 <div style="text-align: center" class="wide">
+  
 # Agradecimentos
 
 <br>
+
 ## Autor: Ewerton Costa
+
 ## Revisor e Coautor: Raul Rosá
 
 
@@ -103,7 +106,7 @@ Uma classe que liga o combate marcial com o mundo dos espíritos para o maior jo
  
   <br><br>
  
-  **Para dar seu *feedback*, tirar dúvidas ou apenas conversar, <br> procure por Ewerton Costa ou Raul Rosá nos grupos citados. **
+  **Para dar seu *feedback*, tirar dúvidas ou apenas conversar, <br> procure por Ewerton Costa ou Raul Rosá nos grupos citados.**
  
   <br>
  
@@ -151,6 +154,7 @@ Devido a isso, muitos espadachins passam a maior parte das suas vidas como andar
 \page
 <div class='classTable wide'>
 ##### O Espadachim Espiritual
+  
 | Nível| Bônus de Proficiência| Características | Despertar do Espírito | Manifestações Espirituais | Dano do Despertar do Espírito |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
 | 1° | +2 | Arma Espiritual, Despertar Do Espírito| 2 | - | 1d4 |
@@ -175,7 +179,9 @@ Devido a isso, muitos espadachins passam a maior parte das suas vidas como andar
 | 20° | +6 | Manifestação Superior Perfeita | Ilimitado | 5 |1d10 |
 </div>
 <br><br><br><br><br><br><br>
+
 #### Criando um Espadachim Espiritual
+
 O mais importante ao se criar um espadachim espiritual é saber qual e como será sua ligação com sua arma espiritual. O elo entre o espadachim e sua arma é o que dá a ele sua identidade e como os outros o enxergarão.
 
 Tendo isso em mente, se pergunte antes de criar seu espadachim: Como foi criada essa ligação com sua arma? Você treinou em uma ordem de estudo espiritual onde encontrou o equilíbrio entre seu corpo físico e seu estado espiritual? Você se encontrou em uma situação difícil e carregava consigo uma arma da família por anos, que de repente se revelou como uma arma espiritual adormecida em um momento de apuro?
@@ -183,7 +189,9 @@ Tendo isso em mente, se pergunte antes de criar seu espadachim: Como foi criada 
 E como é a sua conexão com o mundo espiritual? Você vê pessoas mortas todo o tempo? Possui alguns espíritos amigos ou colegas? Ou você é amaldiçoado com essa ligação e busca poder silenciar os espíritos na sua mente?
 
 <br><br><br><br><br>
+
 #### Construção Rápida ###
+
 Você pode criar um Espadachim Espiritual rapidamente seguindo estas sugestões. Primeiro, coloque seu valor de atributo mais alto em Força ou Destreza, seguido de Sabedoria, e então Constituição. Segundo, escolha o antecedente Forasteiro. Terceiro, escolha uma arma que se adeque com o atributo primário escolhido.
 
 <img
@@ -215,6 +223,7 @@ ___
 
 
 #### Equipamento
+
 Você começa com o seguinte equipamento, além daquele que recebe do seu antecedente:
 - Uma arma simples ou marcial e um escudo.
 - *(a)* armadura de couro ou *(b)* cota de malha
@@ -235,6 +244,7 @@ seu modificador de Sabedoria
 
 
 ### Despertar do Espírito
+
 Sua exposição a partículas espirituais e seu treinamento com sua arma permitem que você desperte seu poder espiritual adormecido. Como uma ação bônus no seu turno, você pode ativar o despertar do espírito, recebendo os seguintes benefícios:
 
 - Ataques com sua arma espiritual causam 1d4 de dano adicional. Este dano muda à medida que você aumenta de nível, conforme mostrado na coluna Dano do Despertar do Espírito, da tabela O Espadachim Espiritual.
