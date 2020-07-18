@@ -1,46 +1,46 @@
 
 <style>
   .phb{
-    width : 210mm;
-    height : 296.8mm;
+	width : 210mm;
+	height : 296.8mm;
   }
-    .phb .classTable {
-        border-image-repeat: stretch;
-    }
-    .phb .descriptive {
-        border-image-repeat: stretch;
-    }
+	.phb .classTable {
+    	border-image-repeat: stretch;
+	}
+	.phb .descriptive {
+    	border-image-repeat: stretch;
+	}
   @font-face {
-    font-family: 'NODESTO';
-    font-style: normal;
-    font-weight: 400;
-    src: url("Nodesto Caps Condensed/Nodesto Caps Condensed Bold.otf") format('woff');
+	font-family: 'NODESTO';
+	font-style: normal;
+	font-weight: 400;
+	src: url("Nodesto Caps Condensed/Nodesto Caps Condensed Bold.otf") format('woff');
 }
 
-.title {
-    font-family: NODESTO;
-    font-size: 60px;
-    color: white;
-    position:absolute;
-    top:95px;
-    left:100px;
-    text-shadow: 2px 2px #000000;
+.brew-title {
+	font-family: NODESTO;
+	font-size: 60px;
+	color: white;
+	position:absolute;
+	top:95px;
+	left:100px;
+	text-shadow: 2px 2px #000000;
 }
   @font-face {
-    font-family: 'VERACRUZ';
-    font-style: normal;
-    font-weight: 400;
-    src: url("https://fontzone.net/font-details/veracruz-regular") format('woff');
-    }
+	font-family: 'VERACRUZ';
+	font-style: normal;
+	font-weight: 400;
+	src: url("https://fontzone.net/font-details/veracruz-regular") format('woff');
+	}
 
-.description {
-    font-family: VERACRUZ;
-    font-size: 30px;
-    color: white;
-    position:absolute;
-    bottom:30px;
-    left:50px;
-    right:50px
+.brew-description {
+	font-family: VERACRUZ;
+	font-size: 30px;
+	color: white;
+	position:absolute;
+	bottom:30px;
+	left:50px;
+	right:50px
 }
 </style>
 
@@ -51,10 +51,10 @@
 
 <div style='margin-top:450px;'></div>
 
-<div class="title">The Spiritual Swordsman</div>
+<div class="brew-title">The Spiritual Swordsman</div>
 
 <div style='margin-top:25px'></div>
-<div class='wide description'>
+<div class='wide brew-description'>
 A class connecting martial skill with the spiritual world for the world's greatest roleplaying game.
 </div>
 
@@ -86,9 +86,9 @@ A class connecting martial skill with the spiritual world for the world's greate
 <div style='margin-top:70px'></div>
 <div class='wide'>
 
-  The design and balancing of this class would not be possible without the help of all our colleagues that are constantly giving us their opinions, making their reviews and testing the material. Thanks to you, it's possible to design a homebrew material that has quality, is balanced and fun.
+  The design and balancing of this class would not be possible without the help of all our colleagues that are constantly giving us their opinions, making their reviews and testing the material. Thanks to you, it's possible to design a homebrew material that has quality, and is both balanced and fun.
  
-  First, we want to thank our tabletop friends, Felipe Mota, Gregory Cardoso Ruiz, Lucas Text and João Victor Ferreira for constantly keeping in touch with the material, reviewing and giving us your attention. You were part of first summit that gathered to elaborate the class concepts, discusses during weeks about the features and, even after this alpha phase, continued to give us feedback so we could keep improving it. You are as much authors of the Spiritual Swordsman as are we.
+  First, we want to thank our tabletop friends, Felipe Mota, Gregory Cardoso Ruiz, Lucas Text and João Victor Ferreira for constantly keeping in touch with the material, reviewing and giving us your attention. You were part of first summit that gathered to elaborate the class concepts, discusses during weeks about the features and, even after this alpha phase, continued to give us feedback so we could keep improving it. You are as much authors of the Spiritual Swordsman as we are.
  
   Second, we would like to thank the members of the **D&D Next** and **D&D 5E - RPG BRASIL** groups for the comments, reviews and suggestions, and for testing our class. A special thanks to the members Lucas Benevenuto, Lucas Mirabeau and Lucas Ribeiro for the awesome reviews and deep analysis, both with mechanic development and class concept. You helped us so much, as well as you are always helping other members in the group. We also thank the members Adriane Soster, Beto Vandesteen, Cristian Rodrigo dos Santos, Leonardo Balestra, José Thiago Silva Soares and Wendell Barad for your suggestions and reviews, you have all been heard.
  
@@ -113,17 +113,17 @@ A class connecting martial skill with the spiritual world for the world's greate
 
 \page
 # Spiritual Swordsman
-A traveler walks alone through the plains, and a few highwaymen prepare to ambush him. An easy target, so they think. When one of the bandits makes his first move, he falls paralyzed to the ground. On seeing this, the others try to react, but can't even get near the traveler. Covered by his cloak the stranger finally reveals himself, with glowing eyes and an even brighter shortsword shining in his hand. The pressure in the area is unbearable, and the thugs can't move a finger. "What is that?" they ask themselves. They couldn't know they were before a powerful spiritual swordsman, whose overwhelming presence was enough to defeat them.
+A traveler walks alone through the plains, and a few highwaymen prepare to ambush him. An easy target, so they think. When one of the bandits makes his first move, he falls paralyzed on the ground. On seeing this, the others try to react, but can't even get near the traveler. Covered by his cloak the stranger finally reveals himself, with glowing eyes and an even brighter shortsword shining in his hand. The pressure in the area is unbearable, and the thugs can't move a finger. "What is that?" they ask themselves. They couldn't know they were before a powerful spiritual swordsman, whose overwhelming presence was enough to defeat them.
 
-Seven years of training in the frozen mountains, this half-elf had already forgotten what society means. He had been through the most desperate situations, the harshest kinds of training, driven only by his former master. Master who had died some time ago, but kept guiding new pilgrims through the mountain. The half-elf knew his master would only be free to go to the other world once he finished his training, and so did he.
+Seven years of training in the frozen mountains, this half-elf had already forgotten what society means. He had been through the most desperate situations, the harshest kinds of training, driven only by his former master. A master who had died some time ago, but kept guiding new pilgrims through the mountain. The half-elf knew his master would only be free to go to the other world once he finished his training, and so he did.
 
 A group of cultists prepare to summon a powerful demon. They think they are alone, but from the shadows a skilled tiefling suddenly emerges, and one by one he reaps their souls and absorbs the energy of their spirits. The cultists had summoned the wrong devil.
 
 ### Spirit Warrior
 
-A spiritual swordsman uses the power of his bond with the spirits and the ethereal plane to exceed the physical limits of the material world. They have advanced training in melee combat techniques, and their mastery wielding a weapon is envied even by the greatest fighters. Their patience and discipline can be seen when they wield their spiritual weapons, a weapon made from the shards gathered from the environment and also from the very soul of the swordsman himself.
+A spiritual swordsman uses the power of his bond with the spirits and the ethereal plane to exceed the physical limits of the material world. They have advanced training in melee combat techniques, and their mastery wielding a weapon is envied even by the greatest fighters. Their patience and discipline can be seen when they wield their spiritual weapons, weapons made from the spiritual shards gathered from the environment and also from the very soul of the swordsman himself.
 
-Sometimes his weapon is the manifestation of a old spirit found by the swordsman, and who now accompanies him in his journey. In other moments, a trauma might have splitten the swordsman's soul in two or more shards that created his weapons. Or maybe, the swordsman may have learned through meditation and self knowledge to extend a piece of his own spirit to a object of the material world.
+Sometimes his weapons are the manifestations of old spirits found by the swordsman, and who now accompany him in his journey. In other moments, a trauma might have splitten the swordsman's soul in two or more shards that created his weapons. Or maybe, the swordsman may have learned through meditation and self knowledge to extend a piece of his own spirit to a object of the material world.
  
  No matter which is the origin of his weapons, their bond with the swordsman turns them into the conductors of the spirits' energy in the world, making them able to use and manipulate this energy to fulfill their various objectives.
  
@@ -138,13 +138,13 @@ Due to this, many swordsmen spend most part of their lives as lonely wanderers, 
 <br><br><br><br>
 <div style="margin-top: -60px;"></div>
 
->##### Why Not an Archetype?
+>##### Why Not a Subclass?
 >
->When you come across a new class, it's natural to ask the designers "Why have you designed a class, and not an archetype?".
+>When you come across a new class, it's natural to ask the designers "Why have you designed a class, and not a subclass?".
 >
 >The spiritual swordsman, though resembling a fighter, warlock or even a bladesinger wizard, has a different and until now unique concept: It is a class that is deeply connected to the spiritual world, specters, ghosts and the soul. It has an intimate bond with the spiritual energies and is able to manipulate them, to the point of materializing this power in the shape of his Spiritual Weapon.
 >
->This deep knowledge about his own spirit and about spirits in general, the bond with its weapon and its responsability in the world are characteristics that can be explored in many ways, ways that could be impossible to explore with only an archetype. And, through this class and its archetypes, we try to bring these nuances and different kinds of bonds the spiritual swordsmen could have.
+>This deep knowledge about his own spirit and about spirits in general, the bond with its weapon and its responsability in the world are characteristics that can be explored in many ways, ways that could be impossible to explore with only a subclass. And, through this class and its owns subclasses, we try to bring these nuances and different kinds of bonds the spiritual swordsmen could have.
 
 
 \page
@@ -270,7 +270,7 @@ When you roll a 1 or 2 on a damage die for an attack you make with a melee weapo
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 ### Spiritual Manifestation
-You discover peculiar spiritual manifestations beffiting yours your weapon's spirit.
+You discover peculiar spiritual manifestations beffiting yours and your weapon's spirit.
 
  At 2nd level, you gain one spiritual manifestation of your choice. Your manifestation options are detailed at the end of the class description. When you gain certain spiritual swordsman levels, you gain additional manifestatons of your choice as shown in the Spiritual Manifestations column of the Spiritual Swordsman table.
 
@@ -349,7 +349,7 @@ You do not age, and you become immune to poison and disease. Also, while you are
 
 At 18th level, your spirit emanates a sensation of weight to all creatures that wish to do you harm when you are awakened.
 
-While your spirit awakening is active, you emanate an aura up to 60 feet from you. A creature that enters the aura or starts its turn there must succeed in a Wisdom saving throw or become incapacitated. Creatures affected may repeat the saving throw at the end of each of their turns, ending the effect on a success. On a success, a creature is also immune to this effect for 24 hours. Constructs aren't affected by this feature.
+While your spirit awakening is active, you emanate an aura up to 60 feet from you. A hostile creature that enters the aura or starts its turn there must succeed in a Wisdom saving throw or become incapacitated. Creatures affected may repeat the saving throw at the end of each of their turns, ending the effect on a success. On a success, a creature is also immune to this effect for 24 hours. Constructs aren't affected by this feature.
 <img
   src='https://image.ibb.co/j4SphK/nivy_espasdachim_3.png'
   style='position:absolute; top:0px; right:0px; width:794px' />
@@ -412,17 +412,17 @@ The Elemental Blade is capable of using the spiritual energy from the elemental 
 
 ### Elemental Attunement
 
-When you choose this path at 3rd level, you become capable of attuning your spiritual weapons with the elemental planes. Whenever you finish a short or long rest, you must choose between Air, Earth, Fire or Water. Your spiritual weapon attunes with this element until the end of your next rest.
+When you choose this path at 3rd level, you become capable of attuning your spiritual weapons with the elemental planes. Whenever you finish a short or long rest, you must choose between Air, Earth, Fire or Water. Your spiritual weapons attune with this element until the end of your next rest.
 
 While you are carrying any of your spiritual weapons, you know a cantrip depending on the attuned element, and you can cast it through your spiritual weapons. Also, your spirit awakening damage changes according to your attuned element, as shown by the table below.
 
 <div>
-| Element | Cantrip           |Awakening Damage|
+| Element | Cantrip       	|Awakening Damage|
 |:-------:|:-----------------:|:--------:|
-|  Air    | Gust              | Electric |
-|  Earth  | Mold Earth        | Acid     |
-|  Fire   | Control Flames    | Fire     |
-|  Water  | Shape Water       | Cold     |
+|  Air	| Gust          	| Electric |
+|  Earth  | Mold Earth    	| Acid 	|
+|  Fire   | Control Flames	| Fire 	|
+|  Water  | Shape Water   	| Cold 	|
 </div>
 
 ### Elemental Manifest
@@ -573,12 +573,12 @@ While you are carrying any of your spiritual weapons, whenever you deal damage, 
 You can cast one of the spells below once with this manifestation on its lowest level, without the need for material components, through your spiritual weapons. The spell cast depends on the element attuned by your weapon. After casting it this way, you must finish a short or long rest before casting it again. If the spell requires an attack roll, the bonus for the attack equals to **your proficiency bonus + your Wisdom modifier**.
 
 <div>
-| Element  | Spell         |
+| Element  | Spell     	|
 |:--------:|:--------------|
-|  Air     | Thunderwave   |
+|  Air 	| Thunderwave   |
 |  Earth   | Earth Tremor  |
-|  Fire    | Burning Hands |
-|  Water   | Ice Knife     |
+|  Fire	| Burning Hands |
+|  Water   | Ice Knife 	|
 </div>
 
 At 13th level, when you use your Attack action, you can replace one of the attacks from it by the casting of one of these spells, if available.
@@ -610,12 +610,12 @@ At 13th level, opportunity attacks against you have disadvantage.
 You can cast one of the spells below once with this manifestation on its lowest level, without the need for material components, through your spiritual weapons. The spell cast depends on the element attuned by your weapon. After casting it this way, you must finish a short or long rest before casting it again.
 
 <div>
-| Element  | Spell          |
+| Element  | Spell      	|
 |:--------:|:---------------|
-|  Air     | Lightning Bolt |
+|  Air 	| Lightning Bolt |
 |  Earth   | Erupting Earth |
-|  Fire    | Fireball       |
-|  Water   | Tidal Wave     |
+|  Fire	| Fireball   	|
+|  Water   | Tidal Wave 	|
 </div>
 
 ##### Malefic Harvest
@@ -774,7 +774,7 @@ You can produce one additional blade at 9th level, for up to 4 blades, and one a
 \page
 
 ## Superior Spiritual Manifestations
-The superior manifestation is part of the spiritual swordsman's pinnacle of power. It is generally his most powerful ability, and represents the ultimate relevation of the nature of the swordsman's spiritual weapon.
+The superior manifestation is part of the spiritual swordsman's pinnacle of power. It is generally his most powerful ability, and represents the ultimate revelation of the nature of the swordsman's spiritual weapon.
 
 You can choose one superior manifestation beginning at 7th level, and it evolves to advanced superior manifestation at 14th level, and to perfect superior manifestation at 20th level. The superior manifestation counts toward your spiritual manifestations limit.
 
@@ -796,7 +796,7 @@ The guardian form ends when the spirit awakening ends.
 
 You become able to drain a living creature's soul, strengthening yourself and your spiritual weapon.
 
-While your spirit awakening is active, whenever you hit a creature with 15 hit points of fewer hit any of your spiritual weapons, the target must succeed in a Constitution saving throw or die instantly. When you kill a creature this way, you also gain advantage on all saving throws for 1 hour.
+While your spirit awakening is active, whenever you hit a creature with 15 hit points or fewer with any of your spiritual weapons, the target must succeed in a Constitution saving throw or die instantly. When you kill a creature this way, you also gain advantage on all saving throws for 1 hour.
 
 **Advanced Manifestation:** This feature is triggered on creatures with 30 or fewer hit points.
 
@@ -807,7 +807,9 @@ While your spirit awakening is active, whenever you hit a creature with 15 hit p
 
 Your spirit is able to absorb huge amounts of energy from the elemental planes, up to the point where it changes your physical form.
 
-When you activate your spirit awakening, you may choose to enter the elemental form. When you do, you gain temporary hit points equal to your spiritual swordsman level + your Wisdom modifier, and you take the form of an air, earth, fire or water elemental, base on your attuned element. You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether or not the piece of equipment can still be worn by you. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
+When you activate your spirit awakening, you may choose to enter the elemental form. When you do, you gain temporary hit points equal to your spiritual swordsman level + your Wisdom modifier, and you take the form of an air, earth, fire or water elemental, base on your attuned element.
+
+You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether or not the piece of equipment can still be worn by you. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.
 
 While on the elemental form, you gain the following benefits:
 
@@ -824,7 +826,7 @@ The elemental form ends when the spirit awakening ends. After entering the eleme
 
 - **Air:** You have a flying (hover) speed equal to your walking speed, can't be prone, and can occupy the space of other creatures. While you are in the space of a creature you are grappling, that creature can't breathe.
 
-- **Earth:** You ignore difficult terrain and have advantage on Strenght checks. You also gain a +2 bonus in your Armor Class.
+- **Earth:** You ignore difficult terrain and have advantage on Strenght checks. You also gain a +2 bonus on your Armor Class.
 
 - **Fire:** Whenever a creature within 5 feet of you hits you with a melee attack, that creature takes fire damage equal to your Wisdom modifier. Also, whenever a creature takes fire damage from you, it also catches fire. Until it or any other creature uses an action to extinguish the fire, it takes 1d10 fire damage at the beginning of each of its turns.
 
@@ -834,9 +836,9 @@ The elemental form ends when the spirit awakening ends. After entering the eleme
 
 - **Air:** As an action, you create a whirlwind around you. Each creature in your space must succeed in a Strength saving throw or take 3d8 bludgeoning damage, be thrown 20 feet in a random direction and fall prone.
 
-- **Earth:** As an action, you create an earthquake around you. Each creature in the ground within 40 feet of you must succeed in a Dextery saving throw. A creature takes 4d6 bludgeoning damage and falls prone on a failed save, or take half as much damage and doesn't fall on a successful one.
-
 \page
+
+- **Earth:** As an action, you create an earthquake around you. Each creature in the ground within 40 feet of you must succeed in a Dexterity saving throw. A creature takes 4d6 bludgeoning damage and falls prone on a failed save, or take half as much damage and doesn't fall on a successful one.
 
 - **Fire:** As an action, you exhale a heat wave affecting all creatures around you. Each creature within 5 feet of you must succeed on a Constitution saving throw or be incapacitated until the end of its next turn.
 
@@ -867,9 +869,9 @@ The elemental form ends when the spirit awakening ends. After entering the eleme
 
 - **Fire:** You can use a bonus action on each of your turns to emit a heat wave. Each creature within the aura must make a Constitution saving throw. A creature takes 2d6 fire damage on a failed save, or half as much on a successful one.
 
-- **Water:** You can you a bonus action on each of your turns to try to freeze a 10-foot cube originating from a point within 30 feet of you. Each creature in the area must succeed in a Strenght saving throw, or will have its speed reduced to 0 and can't benefit of any bonus to its speed until the start of your next turn.
+- **Water:** You can use a bonus action on each of your turns to try to freeze a 10-foot cube originating from a point within 30 feet of you. Each creature in the area must succeed in a Strenght saving throw, or will have its speed reduced to 0 and can't benefit of any bonus to its speed until the start of your next turn.
 
-**Perfect Manifestation:** You now manifest some abilities of all the elements at the same time. The range of your aura increases by 5 feet. Also, while the aura is active, you gain additional benefits from the elements that are not your attuned element:
+**Perfect Manifestation:** You now manifest some abilities of all the elements at the same time. The range of your aura also increases by 5 feet. Also, while the aura is active, you gain additional benefits from the elements that are not your attuned element:
 
 - **Air:** Your speed increases by 5 feet.
 
@@ -950,7 +952,7 @@ Your ability in manipulating the spiritual energy of your weapons increases to t
 
 When you activate your spirit awakening, you may choose to enter the way of the blade. When you do, your spiritual weapons become pure energy, and their damage become force damage.
 
-While in the way of the blade, you can use a bonus action on your turn to clone each of your spiritual weapons within 60 feet of you. The copies appear in a space adjacent to the original weapon, possess all its properties, are spiritual weapons to you and don't count toward the number of spiritual weapons you have.
+While in the way of the blade, you can use a bonus action on your turn to clone each of your spiritual weapons within 60 feet of you. The copies appear in a space adjacent to the original weapons, possess all their properties, are spiritual weapons to you and don't count toward the number of spiritual weapons you have.
 
 When your spirit awakening ends, provided you are alive, your spiritual weapons immediately move in your direction, passing through creatures and objects, by the shortest way possible. Whenever a spiritual weapon passes through the space of a hostile creature this way, that creature must make a Wisdom saving throw, taking force damage equal to your spirit awakening damage on a failed save, or half as much on a successful one. Once all your spiritual weapons get to you, the original weapons fall and the clones cease to exist. Additionaly, you can use an action on your turn to end your spirit awakening.
 
@@ -976,6 +978,8 @@ While your spirit awakening is active, you can use an action to deal a special b
 - **Piercing Damage:** Creatures in a line 30 feet long and 5 feet wide from you must make a Dexterity saving throw, taking 4d6 piercing damage on a failed save, or half as much on a successful one.
 
 - **Slashing Damage:** Creatures in a 20-foot cone from you must make a Dexterity saving throw, taking 4d6 slashing damage on a failed save, or half as much on a successful one.
+
+After using this action, you can do it again only after a new activation of the spirit awakening.
 
 **Advanced Manifestation:** The damage of the blows each increase by 3d6.
 
@@ -1004,4 +1008,3 @@ If you wish to multiclass with the spiritual swordsman, the prerequisites and pr
 |Light armor, medium armor, shields|
 | **Weapons** |
 | Melee simple and martial |
-
