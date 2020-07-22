@@ -88,9 +88,9 @@ A class connecting martial skill with the spiritual world for the world's greate
 
   The design and balancing of this class would not be possible without the help of all our colleagues that are constantly giving us their opinions, making their reviews and testing the material. Thanks to you, it's possible to design a homebrew material that has quality, and is both balanced and fun.
  
-  First, we want to thank our tabletop friends, Felipe Mota, Gregory Cardoso Ruiz, Lucas Text and João Victor Ferreira for constantly keeping in touch with the material, reviewing and giving us your attention. You were part of first summit that gathered to elaborate the class concepts, discusses during weeks about the features and, even after this alpha phase, continued to give us feedback so we could keep improving it. You are as much authors of the Spiritual Swordsman as we are.
+  First, we want to thank our tabletop friends, Felipe Mota, Gregory Cardoso Ruiz, Lucas Text and João Victor Ferreira for constantly keeping in touch with the material, reviewing and giving us their attention. You were part of first summit that gathered to elaborate the class concepts, discussed during weeks about the features, and even after this alpha phase, continued to give us feedback so we could keep improving it. You are as much authors of the Spiritual Swordsman as we are.
  
-  Second, we would like to thank the members of the **D&D Next** and **D&D 5E - RPG BRASIL** groups for the comments, reviews and suggestions, and for testing our class. A special thanks to the members Lucas Benevenuto, Lucas Mirabeau and Lucas Ribeiro for the awesome reviews and deep analysis, both with mechanic development and class concept. You helped us so much, as well as you are always helping other members in the group. We also thank the members Adriane Soster, Beto Vandesteen, Cristian Rodrigo dos Santos, Leonardo Balestra, José Thiago Silva Soares and Wendell Barad for your suggestions and reviews, you have all been heard.
+  Second, we would like to thank the members of the **D&D Next** and **D&D 5E - RPG BRASIL** groups for the comments, reviews and suggestions, and for testing our class. A special thanks to the members Lucas Benevenuto, Lucas Mirabeau and Lucas Ribeiro for the awesome reviews and deep analysis, both with mechanic development and class concept. You helped us so much, and you are always helping other members in the group. We also thank the members Adriane Soster, Beto Vandesteen, Cristian Rodrigo dos Santos, Leonardo Balestra, José Thiago Silva Soares and Wendell Barad for your suggestions and reviews, you have all been heard.
  
  
 
@@ -113,9 +113,9 @@ A class connecting martial skill with the spiritual world for the world's greate
 
 \page
 # Spiritual Swordsman
-A traveler walks alone through the plains, and a few highwaymen prepare to ambush him. An easy target, so they think. When one of the bandits makes his first move, he falls paralyzed on the ground. On seeing this, the others try to react, but can't even get near the traveler. Covered by his cloak the stranger finally reveals himself, with glowing eyes and an even brighter shortsword shining in his hand. The pressure in the area is unbearable, and the thugs can't move a finger. "What is that?" they ask themselves. They couldn't know they were before a powerful spiritual swordsman, whose overwhelming presence was enough to defeat them.
+A traveler walks alone through the plains, and a few highwaymen prepare to ambush him. An easy target, so they think. When one of the bandits makes his first move, he falls paralyzed on the ground. Upon seeing this, the others try to react, but can't even get near the traveler. Covered by his cloak the stranger finally reveals himself, with glowing eyes and an even brighter shortsword shining in his hand. The pressure in the area is unbearable, and the thugs can't move a finger. "What is that?" they ask themselves. They couldn't know they were before a powerful spiritual swordsman, whose overwhelming presence was enough to defeat them.
 
-Seven years of training in the frozen mountains, this half-elf had already forgotten what society means. He had been through the most desperate situations, the harshest kinds of training, driven only by his former master. A master who had died some time ago, but kept guiding new pilgrims through the mountain. The half-elf knew his master would only be free to go to the other world once he finished his training, and so he did.
+Seven years of training in the frozen mountains, this half-elf had already forgotten what society means. He had been through the most desperate situations, the harshest kinds of training, driven only by his former master. A master who had died some time ago, but kept guiding new pilgrims through the mountain. The half-elf knew his master would only be free to go to the other world once he finished his training, and so he trained.
 
 A group of cultists prepare to summon a powerful demon. They think they are alone, but from the shadows a skilled tiefling suddenly emerges, and one by one he reaps their souls and absorbs the energy of their spirits. The cultists had summoned the wrong devil.
 
@@ -193,7 +193,7 @@ You can make a spiritual swordsman quickly by following these suggestions. First
 
 ## Class Features
 
-As Spiritual Swordsman, you gain the following class features.
+As a Spiritual Swordsman, you gain the following class features.
 
 #### Hit Points
 ___
@@ -214,7 +214,7 @@ ___
 
 
 
-#### Equipament
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 - A simple or martial weapon and a shield
 - *(a)* leather armor or *(b)* scale mail
@@ -224,9 +224,9 @@ You start with the following equipment, in addition to the equipment granted by 
 
 At 1st level, your spirit manifests itself as the spirit of your own weapon. Choose a weapon from the list in which the spiritual swordsman is proficient. This weapon manifests physically and becomes your spiritual weapon.
 
-You can materialize and dematerialize it as a bonus action, provided you have at least one free hand. You have a special bond with these weapons, who become your companions and may have their own desires. The personality of a spiritual weapon varies, but it's usually similar to the strongests personality traits of the swordsman.
+You can materialize and dematerialize it as a bonus action, provided you have at least one free hand. You have a special bond with these weapons, who become your companions and may have their own desires. The personality of a spiritual weapon varies, but it's usually similar to the strongest personality traits of the swordsman.
 
-You can create a new spiritual weapon by absorbing the spiritual shards from your soul and the environment. This process takes 4 hours in which you must be in concentration (as if you were concentrating in a spell). You may choose any weapon the list in which the spiritual swordsman is proficient.
+You can create a new spiritual weapon by absorbing the spiritual shards from your soul and the environment. This process takes 4 hours in which you must be in concentration (as if you were concentrating in a spell). You may choose any weapon in the list in which the spiritual swordsman is proficient.
 
 You can have up to two spiritual weapons. If you create a third one, the oldest weapon shatters and is destroyed. You may also turn an physical weapon, if it's a weapon from the list in which the spiritual swordsman is proficient, into a spiritual weapon, and in this case the process takes only 1 hour. Doing this also shatters your oldest spiritual weapon if you try to exceed your maximum.
 
@@ -435,25 +435,25 @@ You gain other manifestations this way at 7h and 14th level.
 
 ### Elemental Armor
 
-Beginning at 6th level, whenever you take damage of the type attuned by your spiritual weapons, you can use your reaction to gain resistance to that kind of damage until the start of your next turn.
+Beginning at 6th level, whenever you take damage of your attuned element's type, you can use your reaction to gain resistance to that kind of damage until the start of your next turn.
 
 \page
 
-In addition, while your spirit awakening is active, whenever a creature hits you with a melee attack, you can make it take damage of the type attuned by your spiritual weapons equal to your spirit awakening damage. After dealing this damage, you can deal it again only after the end of your next turn.
+In addition, while your spirit awakening is active, whenever a creature hits you with a melee attack, you can make it take damage of your attuned element's type equal to your spirit awakening damage. After dealing this damage, you can deal it again only after the end of your next turn.
 
 ### Amplified Power
 
-At 11th level, your attunement with the elements allows you to wreak havoc even on creatures native to the elemental planes.
-
-Your attacks and spells ignore resistance to acid, cold, electric and fire damage, and treat immunity to these damages as resistance.
+At 11th level, your attacks and spells ignore resistance to acid, cold, electric and fire damage.
 
 ### Spirit of the Elements
 
-At 17th level, your spirit is able to channel the spiritual shards from the elemental planes in such a way that your body becomes one with those energies.
+At 17th level, you gain resistance to the damage of your attuned element's type, and your Elemental Armor feature now grants you immunity to that damage instead of resistance.
 
-You have resistance to acid, cold, electric and fire damage, and your Elemental Armor feature now grants you immunity to the attuned damage instead of resistance.
+Also, while your spirit awakening is active, you can connect your soul to another creature's spirit to overcome it's resistances. As a bonus action on your turn, you can mark a creature up to 30 feet from you that you can see, or that you sensed with your Sincerity of the Soul feature.
 
-Also, while your spirit awakening is active, whenever you would take damage of your attuned element, you instead regain hit points equal to the damage you would take (before applying resistances and immunities).
+As long as your spirit awakening lasts, your damage rolls against the marked creature treat immunity from the damage of your attuned element's type as if it was resistance to that damage. In addition, whenever the marked creature you receive damage from your Elemental Armor, it receives maximum damage.
+
+After you use mark a creature this way, you can do so again only after you finish a short or long rest.
 
 ## Guided Spirit
 
@@ -477,7 +477,6 @@ You gain one spiritual manifestation of your choice. It doesn't count towards th
 
 You gain other manifestations this way at 7h and 14th level.
 
-<br>
 
 ### Keep at Distance
 
@@ -508,7 +507,6 @@ Starting when you choose this path at 3rd level, your spirit becomes able to use
 
 While you are under dim light or darkness, you can use an action to become invisible until you make an attack, cast a spell or interact with an object that is not being carried by you. If you leave the area of dim light or darkness, the invisibility ends at the end of your turn.
 
-While you are invisible this way, you are also inaudible.
 
 ### Dark Manifest
 
@@ -658,7 +656,7 @@ At 17th level, a creature that fails the save is also prone.
 
 While you are in an area of dim light or darkness, you can Hide as a bonus action.
 
-In addition, at 9th level, the first creature that takes necrotic damage dealt by any of your spiritual weapons in your turn cannot regain hit points until the start of your next turn.
+At 11th level, while you are invisible in an area of dim light or darkness, you are also inaudible.
 
 ##### Shadow Assault
 *Prerequisites: 7th level, Path of the Soul Reaper*
@@ -741,14 +739,14 @@ Once per turn when you hit with a melee attack with your spiritual weapon, you c
 
 The damage increases to 3d8 at 11th level, and to 4d8 at 17th level.
 
-\page
-
 ##### Steps in the Air
 *Prerequisites: 11th level*
 
 While your spirit awakening is active, during your turn you have a flying speed equal to half your walking speed. At the end of your turn, you fall if you remain in the air and nothing else is holding you aloft.
 
 In addition, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your spiritual swordsman level.
+
+\page
 
 ##### Tornado of Souls
 *Prerequisites: 7th level, Path of the Balance Protector*
