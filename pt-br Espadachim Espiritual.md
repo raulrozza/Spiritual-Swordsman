@@ -465,24 +465,24 @@ Você aprende outras manifestações desta forma no 7° e no 14° nível.
 
 ### Armadura Elemental
 
-A partir do 6º nível, toda vez que você receber dano do tipo sintonizado pela sua arma elemental, você pode usar sua reação para ganhar resistência a este tipo de dano até o começo do seu próximo turno.
+A partir do 6º nível, toda vez que você receber dano do seu elemento sintonizado, você pode usar sua reação para ganhar resistência a este tipo de dano até o começo do seu próximo turno.
 
-Além disso, enquanto seu despertar do espírito estiver ativo, toda vez que uma criatura acertar você com um ataque corpo a corpo, você pode fazer com que ela receba dano do tipo sintonizado pela sua arma igual ao seu dano do despertar do espírito. Após fazer isso, você só pode fazê-lo novamente após o final do seu próximo turno.
+Além disso, enquanto seu despertar do espírito estiver ativo, toda vez que uma criatura acertar você com um ataque corpo a corpo, você pode fazer com que ela receba dano do tipo do seu elemento sintonizado igual ao seu dano do despertar do espírito. Após fazer isso, você só pode fazê-lo novamente após o final do seu próximo turno.
 
 ### Poder Amplificado
 A partir do 11º nível, seus ataques e magias ignoram resistência a dano  ácido, elétrico, gélido e ígneo.
 
 ### Espírito dos Elementos
 
-No 17º nível, você adquire resistência ao dano do tipo sintonizado pela sua arma espiritual, e sua característica Armadura Elemental agora fornece imunidade a este dano em vez de resistência.
+No 17º nível, você adquire resistência ao dano do tipo do seu elemento sintonizado, e sua característica Armadura Elemental agora fornece imunidade a este dano em vez de resistência.
 
 \page
 
-Além disso, enquanto seu despertar do espírito estiver ativo, você pode conectar seu espírito ao espírito de uma criatura para sobrepor suas fraquezas. Com uma ação bônus no seu turno, você pode marcar uma criatura a até 9 metros de você que você possa ver, ou cujo espírito você tenha sentido com sua característica Sinceridade da Alma.
+Além disso, enquanto seu despertar do espírito estiver ativo, você pode conectar seu espírito ao espírito de uma criatura para sobrepor suas resitências. Com uma ação bônus no seu turno, você pode marcar uma criatura a até 9 metros de você que você possa ver, ou cujo espírito você tenha sentido com sua característica Sinceridade da Alma.
 
 Enquanto seu despertar do espírito durar, suas rolagens de dano contra a criatura marcada tratam imunidade ao tipo de dano do seu elemento sintonizado como se fosse resistência. Por fim, se a criatura marcada receberia dano da sua Armadura Elemental, ela recebe dano máximo.
 
-Você só pode marcar uma criatura de cada vez. Após usar esta característica, você precisa terminar um descanso curto ou longo para usá-la novamente.
+Após usar marcar uma criatura desta forma, você precisa terminar um descanso curto ou longo para fazê-lo novamente.
 
 ## Protetor do Equílibrio
 
@@ -524,7 +524,9 @@ No 11º nível, você se torna capaz de usar os fragmentos obtidos das almas que
 Toda vez que você for malsucedido em uma salvaguarda, você pode gastar um espaço de alma para repetí-la. Você deve usar o novo resultado.
 
 ### Ponte para o Além
-A partir do 17º nível, quando você ativa o seu despertar do espírito, você emite uma aura espectral a até 9 metros de você. Escolha um número de criaturas na aula igual a 1 + seu modificador de Sabedoria (mínimo de 1). Enquanto o seu despertar do espírito estiver ativo, as criaturas escolhidas têm resistência a dano contundente, cortante e perfurante se estiverem dentro da aura. Além disso, toda vez que uma criatura dentro da aura for reduzida a 0 pontos de vida, você recupera um espaço de alma.
+A partir do 17º nível, seu espírito se torna o principal caminho usado pelas almas para partir para o outro lado.
+
+Quando você ativa o seu despertar do espírito, você emite uma aura espectral a até 9 metros de você. Escolha um número de criaturas na aula igual a 1 + seu modificador de Sabedoria (mínimo de 1). Enquanto o seu despertar do espírito estiver ativo, as criaturas escolhidas têm resistência a dano contundente, cortante e perfurante se estiverem dentro da aura. Além disso, toda vez que uma criatura dentro da aura for reduzida a 0 pontos de vida, você recupera um espaço de alma.
 
 
 \page
