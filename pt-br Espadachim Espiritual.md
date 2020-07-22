@@ -359,8 +359,6 @@ Começando no 3° nível, seu espírito é capaz de usar as sombras do ambiente 
 
 Enquanto estiver sob área de penumbra ou escuridão, você pode usar uma ação para ficar invisível até realizar um ataque, conjurar uma magia ou interagir com algum objeto que não esteja sendo carregado por você. Se você sair da área de penumbra ou escuridão, a invisibilidade acaba no final do seu turno.
 
-Enquanto estiver invisível desta forma, você também se torna inaudível.
-
 
 ### Manifesto Sombrio
 Também no 3° nível, a revelação sombria da sua arma espiritual manifesta algumas peculiaridades. Enquanto seu despertar do espírito estiver ativo, o dano do seu despertar do espírito se torna dano necrótico.
@@ -369,7 +367,7 @@ Você também ganha uma nova manifestação espiritual à sua escolha. Ela não 
 
 Você aprende outras manifestações desta forma no 7° e no 14° nível.
 
-<br><br><br>
+<br><br><br><br><br>
 
 
 ### Dreno Vital
@@ -472,19 +470,19 @@ A partir do 6º nível, toda vez que você receber dano do tipo sintonizado pela
 Além disso, enquanto seu despertar do espírito estiver ativo, toda vez que uma criatura acertar você com um ataque corpo a corpo, você pode fazer com que ela receba dano do tipo sintonizado pela sua arma igual ao seu dano do despertar do espírito. Após fazer isso, você só pode fazê-lo novamente após o final do seu próximo turno.
 
 ### Poder Amplificado
-A partir do 11º nível, sua sintonia com os elementos permite que você cause estragos até mesmo em criaturas nativas dos planos elementares.
-
-Seus ataques e magias ignoram resistência a dano  ácido, elétrico, gélido e ígneo, e tratam imunidades à estes danos como resistências.
+A partir do 11º nível, seus ataques e magias ignoram resistência a dano  ácido, elétrico, gélido e ígneo.
 
 ### Espírito dos Elementos
 
-No 17º nível, seu espírito é capaz de canalizar os fragmentos espirituais dos planos elementais de tal forma que seu corpo se torna um com estas energias.
+No 17º nível, você adquire resistência ao dano do tipo sintonizado pela sua arma espiritual, e sua característica Armadura Elemental agora fornece imunidade a este dano em vez de resistência.
 
 \page
 
-Você tem resistência a dano ácido, elétrico, gélido e ígneo, e sua característica Armadura Elemental agora fornece imunidade ao dano sintonizado em vez de resistência.
+Além disso, enquanto seu despertar do espírito estiver ativo, você pode conectar seu espírito ao espírito de uma criatura para sobrepor suas fraquezas. Com uma ação bônus no seu turno, você pode marcar uma criatura a até 9 metros de você que você possa ver, ou cujo espírito você tenha sentido com sua característica Sinceridade da Alma.
 
-Além disso, enquanto seu despertar do espírito estiver ativo, toda vez que você receberia dano do tipo do seu elemento sintonizado, em vez disso você é curado naquela quantidade (antes de se aplicarem resistências e imunidades).
+Enquanto seu despertar do espírito durar, suas rolagens de dano contra a criatura marcada tratam imunidade ao tipo de dano do seu elemento sintonizado como se fosse resistência. Por fim, se a criatura marcada receberia dano da sua Armadura Elemental, ela recebe dano máximo.
+
+Você só pode marcar uma criatura de cada vez. Após usar esta característica, você precisa terminar um descanso curto ou longo para usá-la novamente.
 
 ## Protetor do Equílibrio
 
@@ -515,10 +513,10 @@ Você ganha uma nova manifestação espiritual à sua escolha. Ela não conta pa
 
 Você aprende outras manifestações desta forma no 7° e no 14° nível.
 
+<br><br><br><br><br>
+
 ### Farol da Travessia
 A partir do 6º nível, toda vez que uma criatura a até 3 metros de você morrer, você ganha pontos de vida temporários igual à metade do seu nível de Espadachim Espiritual. No 14º nível, o alcance desta característica aumenta para 9 metros.
-
-<br><br><br>
 
 ### Vitalidade Espectral
 No 11º nível, você se torna capaz de usar os fragmentos obtidos das almas que você atravessou para lhe fortalecer.
@@ -526,15 +524,13 @@ No 11º nível, você se torna capaz de usar os fragmentos obtidos das almas que
 Toda vez que você for malsucedido em uma salvaguarda, você pode gastar um espaço de alma para repetí-la. Você deve usar o novo resultado.
 
 ### Ponte para o Além
-Quando você ativa o seu despertar do espírito, você emite uma aura espectral a até 9 metros de você. Escolha um número de criaturas na aula igual a 1 + seu modificador de Sabedoria (mínimo de 1). Enquanto o seu despertar do espírito estiver ativo, as criaturas escolhidas têm resistência a dano contundente, cortante e perfurante se estiverem dentro da aura. Além disso, toda vez que uma criatura dentro da aura for reduzida a 0 pontos de vida, você recupera um espaço de alma.
+A partir do 17º nível, quando você ativa o seu despertar do espírito, você emite uma aura espectral a até 9 metros de você. Escolha um número de criaturas na aula igual a 1 + seu modificador de Sabedoria (mínimo de 1). Enquanto o seu despertar do espírito estiver ativo, as criaturas escolhidas têm resistência a dano contundente, cortante e perfurante se estiverem dentro da aura. Além disso, toda vez que uma criatura dentro da aura for reduzida a 0 pontos de vida, você recupera um espaço de alma.
 
 
 \page
 
 ## Manifestações Espirituais
 Se uma manifestação espiritual tiver pré-requisitos, você precisa cumprí-los antes de aprendê-la. Você pode aprender uma manifestação ao mesmo tempo em que adquire os pré-requisitos para tanto. Um pré-requisito de nível se refere ao nível nesta classe.
-
-
 
 ##### Agilidade Espiritual
 *Pré-requisito: 7º nível*
@@ -552,7 +548,7 @@ Enquanto não estiver vestindo uma armadura, sua Classe de Armadura é igual a 1
 
 Enquanto você estiver em uma área de penumbra ou escuridão, você pode usar Esconder-se como uma ação bônus.
 
-Além disso, a partir do 9° nível, a primeira criatura que sofrer dano necrótico causado por uma de suas armas espirituais no seu turno não poderá recuperar pontos de vida até o início do seu próximo turno.
+A partir do 11° nível, enquanto você estiver invisível em uma área de penumbra ou escuridão, você também fica inaudível.
 
 ##### Carga Espiritual
 
@@ -575,6 +571,8 @@ A partir do 9° nível, se você ainda possuir estes pontos de vida temporários
 Enquanto seu despertar do espírito estiver ativo, você pode usar uma Ação para desfragmentar sua arma espiritual em 3 pequenas lâminas de energia etérea. Para cada lâmina, escolha uma criatura que você possa ver a até 12 metros de você. Ela deve realizar uma salvaguarda de Destreza, sofrendo dano cortante igual ao seu dano do despertar do espírito se for malsucedida, ou metade do dano se for bem-sucedida.
 
 Você pode produzir uma lâmina adicional no 9° nível, para um total de 4 lâminas, e outra lâmina adicional no 15° nível, totalizando 5 lâminas.
+
+<br>
 
 ##### Destruição Espiritual
 *Pré-requisito: Caminho do Protetor do Equilíbrio*
